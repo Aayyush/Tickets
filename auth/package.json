@@ -17,6 +17,7 @@
     "express-validator": "^6.4.1",
     "mongoose": "^5.9.14",
     "ts-node-dev": "^1.0.0-pre.44",
+    "tslint": "^6.1.2",
     "typescript": "^3.9.2"
   }
 }
